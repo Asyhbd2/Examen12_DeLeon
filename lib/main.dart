@@ -83,11 +83,11 @@ class MiExamenDeLeon extends StatelessWidget {
                               style: TextStyle(
                                   fontSize: 20,
                                   fontWeight: FontWeight.bold,
-                                  color: Colors.white)),
+                                  color: Colors.black)),
                           SizedBox(height: 8),
                           Text(productoslista[0].toString(),
                               style:
-                                  TextStyle(fontSize: 16, color: Colors.white)),
+                                  TextStyle(fontSize: 16, color: Colors.black)),
                         ],
                       ),
                     ),
@@ -107,11 +107,11 @@ class MiExamenDeLeon extends StatelessWidget {
                               style: TextStyle(
                                   fontSize: 20,
                                   fontWeight: FontWeight.bold,
-                                  color: Colors.white)),
+                                  color: Colors.black)),
                           SizedBox(height: 8),
                           Text(productoslista[1].toString(),
                               style:
-                                  TextStyle(fontSize: 16, color: Colors.white)),
+                                  TextStyle(fontSize: 16, color: Colors.black)),
                         ],
                       ),
                     ),
